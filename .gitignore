@@ -2,6 +2,7 @@
 .\#*
 /target
 /modules/drivers/*/target
+/modules/drivers/*/*.iml
 /lein-plugins/*/target
 /classes
 /checkouts
